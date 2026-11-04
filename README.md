@@ -2,7 +2,7 @@
 # README — Evaluación
 
 **Curso:** ALGORITMO Y ESTRUCTURA DE DATOS BASADOS EN INTELIGENCIA ARTIFICIAL
-**Código:** 34682
+**Código:** 4682
 **Evaluación:** PA3
 **Equipo:** Grupo 3
 
