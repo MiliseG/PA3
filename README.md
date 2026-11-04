@@ -435,5 +435,4 @@ Por lo tanto, seleccionar correctamente entre una pila y una cola permite organi
 4. La selección de una estructura de datos depende de las necesidades del problema, ya que cada una presenta características y ventajas diferentes.
 
 
-**Última actualización:** [03/11/2026]#   P A 3  
- 
+**Última actualización:** [03/11/2026]
